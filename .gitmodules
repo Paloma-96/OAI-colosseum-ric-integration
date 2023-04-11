@@ -1,19 +1,22 @@
 [submodule "oai-oran-protolib"]
-	path = oai-oran-protolib
-	url = https://github.com/wineslab/oai-oran-protolib.git
+        path = oai-oran-protolib
+        url = https://github.com/wineslab/oai-oran-protolib.git
 [submodule "xapp-oai"]
-	path = xapp-oai
-	url = https://github.com/wineslab/xapp-oai.git
+        path = xapp-oai
+        url = https://github.com/Paloma-96/xapp-oai.git
+        branch = pos-xapp
 [submodule "e2"]
-	path = e2
-	url = https://github.com/wineslab/e2.git
+        path = e2
+        url = https://github.com/wineslab/e2.git
+        branch = e-release-coloric-support
 [submodule "e2protobuf"]
-	path = e2protobuf
-	url = https://github.com/wineslab/e2protobuf.git
+        path = e2protobuf
+        url = https://github.com/wineslab/e2protobuf.git
+        branch = ue_info
 [submodule "openairinterface5g"]
-	path = openairinterface5g
-	url = https://github.com/EugenioMoro/openairinterface5g.git
-	branch = bandwidth-testing-abs-sr-bsr-multiple_ue
+        path = openairinterface5g
+        url = https://github.com/Paloma-96/openairinterface5g.git
+        branch = pos-xapp
 [submodule "e2sim"]
-	path = e2sim
-	url = https://github.com/wineslab/oai-o-ran-e2-sim
+        path = e2sim
+        url = https://github.com/wineslab/oai-o-ran-e2-sim
