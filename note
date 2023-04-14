@@ -1,0 +1,8 @@
+++++++++ Fatto da me UL SRS ToA ==> 1344 ++++++++++
+++++++++ channel time UL SRS ToA ==> 1526 ++++++++++
+++++++++ channel time shifted UL SRS ToA ==> 758 ++++++++++
+[UE RNTI bc3a][sfn 136][slot 8] UL SRS ToA ==> 30 [ UL SRS ToA ns -1] / 1536 samples, SNR 11 dB
+[UE RNTI bc3a][sfn 136][slot 8] UL SRS ToA ==> 30 [ UL SRS ToA ns -1]
+[UE RNTI bc3a] UL SRS ToA ==> 30 [ UL SRS ToA ns -1]
+
+
