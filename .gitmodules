@@ -1,7 +1,7 @@
 [submodule "oai-oran-protolib"]
         path = oai-oran-protolib
-        url = https://github.com/wineslab/oai-oran-protolib.git
-        branch = gbr-sps-xapp
+        url = https://github.com/Paloma-96/oai-oran-protolib.git
+        branch = pos-xapp
 [submodule "xapp-oai"]
         path = xapp-oai
         url = https://github.com/Paloma-96/xapp-oai.git
