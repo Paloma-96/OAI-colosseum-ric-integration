@@ -20,4 +20,5 @@
         branch = pos-xapp
 [submodule "e2sim"]
         path = e2sim
-        url = https://github.com/wineslab/oai-o-ran-e2-sim
+	url = https://github.com/wineslab/oai-o-ran-e2-sim
+	branch = oai-support-release
